@@ -1,7 +1,7 @@
 # Simple Typing Text Effect using HTML & CSS
 <h2> Description </h2>
 Hello developers! In this video I'm just creating a simple typing effect using only HTML and CSS.<br>
-- <b> CodePen:<b> https://codepen.io/braimcode/pen/jOpqQgb
+- <b> CodePen:<b> https://codepen.io/braimcode
 
 <h2> Contat Info </h2>
 - YouTube : https://www.youtube.com/@Braimcode<br>
