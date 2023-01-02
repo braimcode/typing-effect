@@ -2,8 +2,8 @@
 
 ### Hello developers! in this video I just create a simple typing effect using just HTML and CSS.
 
-### - Support: https://www.buymeacoffee.com/?utm_source=logo&utm_medium=header&utm_campaign=exp
-### - Subscribe : https://www.youtube.com/@Braimcode
+### - Support: <a href="https://www.buymeacoffee.com/Braimcode"></a>
+### - YouTube : https://www.youtube.com/@Braimcode
 ### - Instagram : https://www.instagram.com/braim.code
 ### - Twitter : https://twitter.com/braimcode
 
