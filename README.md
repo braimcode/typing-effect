@@ -1,10 +1,13 @@
-## Simple Typing Text Effect using HTML & CSS
+# Simple Typing Text Effect using HTML & CSS
+<h2> Description </h2>
+Hello developers! In this video I'm just creating a simple typing effect using only HTML and CSS.<br>
+- <b> CodePen:<b> https://codepen.io/braimcode/pen/jOpqQgb
 
-### Hello developers! in this video I just create a simple typing effect using just HTML and CSS.
+<h2> Contat Info </h2>
+- YouTube : https://www.youtube.com/@Braimcode<br>
+- Twitter : https://twitter.com/braimcode <br>
+- Instagram : https://www.facebook.com/braim.code <br>
 
-### - Support: <a href="https://www.buymeacoffee.com/Braimcode"></a>
-### - YouTube : https://www.youtube.com/@Braimcode
-### - Instagram : https://www.instagram.com/braim.code
-### - Twitter : https://twitter.com/braimcode
 
+ <h2> Preview</h2>
 <img src="https://pbs.twimg.com/media/FlbNlN_XEAIbNFi?format=jpg&name=large"/>
